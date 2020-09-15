@@ -30,3 +30,33 @@ h1 {
 h2 {
     font-family: 'Montserrat', sans-serif;
 }
+
+.middle-container {
+    padding-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.microservice-cloud-img {
+    float: left;
+    margin-right: 30px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.aws-img {
+    float: right;
+    margin-left: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+.profile {
+    padding-bottom: 50px;
+}
