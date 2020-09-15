@@ -1,6 +1,7 @@
 body {
     text-align: center;
     margin: 0px;
+    font-family: 'Merriweather', serif;
 }
 
 .top-container {
@@ -19,4 +20,13 @@ body {
     position: absolute;
     left: 400px;
     top: 250px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 6rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
 }
