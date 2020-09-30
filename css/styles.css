@@ -9,6 +9,17 @@ h2 {
     font-family: 'Montserrat', sans-serif;
 }
 
+a {
+    color: #1b262c;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5eaaa8;
+}
+
 .top-container {
     background-color: #E4F9F5;
     position: relative;
@@ -78,4 +89,20 @@ h2 {
     margin-right: 30px;
     width: 90px;
     height: 90px;
+}
+
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-size: 20px;
+    background: #E4F9F5;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.contact-me {
+    width: 50%;
+    margin: auto;
+    padding: 30px 0;
 }
