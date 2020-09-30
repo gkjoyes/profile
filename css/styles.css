@@ -5,13 +5,13 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .top-container {
     background-color: #E4F9F5;
     position: relative;
-}
-
-h2 {
-    font-family: 'Montserrat', sans-serif;
 }
 
 .middle-container {
@@ -23,21 +23,6 @@ h2 {
     margin: 100px auto;
     text-align: left;
     line-height: 2;
-}
-
-.microservice-cloud-img {
-    float: left;
-    margin-right: 30px;
-    width: 100px;
-    height: 100px;
-    text-align: center;
-}
-
-.aws-img {
-    float: right;
-    margin-left: 30px;
-    width: 100px;
-    height: 100px;
 }
 
 .profile {
@@ -79,4 +64,18 @@ h2 {
 .profile-img {
     width: 100px;
     height: 100px;
+}
+
+.right-skill-img {
+    float: right;
+    margin-left: 30px;
+    width: 90px;
+    height: 90px;
+}
+
+.left-skill-img {
+    float: left;
+    margin-right: 30px;
+    width: 90px;
+    height: 90px;
 }
