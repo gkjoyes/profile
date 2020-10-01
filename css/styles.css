@@ -20,6 +20,15 @@ a:hover {
     color: #5eaaa8;
 }
 
+hr {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #b8b6b6;
+    border-bottom: none;
+    width: 6%;
+    margin: 60px auto;
+}
+
 .top-container {
     background-color: #E4F9F5;
     position: relative;
@@ -39,10 +48,6 @@ a:hover {
     margin: 100px auto;
     text-align: left;
     line-height: 2;
-}
-
-.profile {
-    padding-bottom: 50px;
 }
 
 .mountain {
