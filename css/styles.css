@@ -29,6 +29,11 @@ a:hover {
     padding-top: 50px;
 }
 
+.bottom-container {
+    background-color: #E4F9F5;
+    padding: 50px 0 20px;
+}
+
 .skill-row {
     width: 50%;
     margin: 100px auto;
@@ -94,7 +99,7 @@ a:hover {
 .btn {
     -webkit-border-radius: 10;
     -moz-border-radius: 10;
-    border-radius: 10px;
+    border-radius: 100px;
     font-size: 20px;
     background: #E4F9F5;
     padding: 10px 20px 10px 20px;
@@ -105,4 +110,16 @@ a:hover {
     width: 50%;
     margin: auto;
     padding: 30px 0;
+}
+
+.contact-me-block {
+    padding-bottom: 90px;
+    width: 50%;
+    margin: auto;
+}
+
+.copyright {
+    color: #637373;
+    font-size: 0.9rem;
+    padding: 20px 0;
 }
